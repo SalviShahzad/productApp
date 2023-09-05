@@ -11,7 +11,6 @@ module.exports = {
           '@helpers': './src/helpers',
           '@hooks': './src/hooks',
           '@navigation': './src/navigation',
-          '@redux': './src/redux',
           '@views': './src/views',
           '@theme': './src/theme',
           '@utils': './src/utils',
